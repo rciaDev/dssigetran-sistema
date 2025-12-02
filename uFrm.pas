@@ -86,8 +86,7 @@ var
   sAtualizaCRM: String;
 
   const
-    TOKEN_META = 'EAAI8tVOUlDQBABZB8bQcgiiQcGpb06ZB2YdmGimzXbkxnyUk8qIa7rMUpbEsABZA4MTcNxiWFr9YXgp2BnS7aE1m8aohrVwQJdwlC0gCZBrCz3YizcU7B45ICGW27DndTJm49U5ZAifKbDZC4PArYkCYheTDuZA2dzU0OdpYApC2eO1G2koV9jY';
-    ID_META = '106059639186918';
+    
 
 
 
@@ -273,7 +272,7 @@ begin
       except
          on E: EIdOSSLCouldNotLoadSSLLibrary do begin
             GravaLog('Erro EIdOSSLCouldNotLoadSSLLibrary:'+sLineBreak+
-                     'Versão OpenSSL:'+OpenSSLVersion()+sLineBreak+'' +
+                     'Versï¿½o OpenSSL:'+OpenSSLVersion()+sLineBreak+'' +
                      'Erro:'+WhichFailedToLoad());
             ShowMessage(e.Message);
          end;
@@ -323,7 +322,7 @@ begin
    'returns ( '+
    '    RETORNO varchar(512)) '+
    'as '+
-   'declare variable COM_ACENTO varchar(40) = ''àâêôûãõáéíóúçüÀÂÊÔÛÃÕÁÉÍÓÚÇÜÑñ''; '+
+   'declare variable COM_ACENTO varchar(40) = ''ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½''; '+
    'declare variable SEM_ACENTO varchar(40) = ''aaeouaoaeioucuAAEOUAOAEIOUCUNn''; '+
    'declare variable LETRA varchar(1) = ''''; '+
    'begin '+
@@ -331,63 +330,63 @@ begin
    '   While (DADO<>'''') do '+
    '   begin '+
    '      Select case substring(:DADO from 1 for 1) '+
-   '            when ''à'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''a'' '+
-   '            when ''â'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''a'' '+
-   '            when ''ã'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''a'' '+
-   '            when ''á'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''a'' '+
-   '            when ''À'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''A'' '+
-   '            when ''Ã'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''A'' '+
-   '            when ''Á'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''A'' '+
-   '            when ''ê'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''e'' '+
-   '            when ''é'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''e'' '+
-   '            when ''Ê'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''e'' '+
-   '            when ''É'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''E'' '+
-   '            when ''ô'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''o'' '+
-   '            when ''õ'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''o'' '+
-   '            when ''ó'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''o'' '+
-   '            when ''Ô'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''O'' '+
-   '            when ''Ó'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''O'' '+
-   '            when ''Õ'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''O'' '+
-   '            when ''û'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''u'' '+
-   '            when ''ú'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''u'' '+
-   '            when ''ü'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''u'' '+
-   '            when ''Û'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''U'' '+
-   '            when ''Ú'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''U'' '+
-   '            when ''Ü'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''U'' '+
-   '            when ''í'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''i'' '+
-   '            when ''Í'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''I'' '+
-   '            when ''ç'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''c'' '+
-   '            when ''Ç'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''C'' '+
-   '            when ''ñ'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''n'' '+
-   '            when ''Ñ'' then '+
+   '            when ''ï¿½'' then '+
    '                 ''N'' '+
    '            else '+
    '               substring(:DADO from 1 for 1) '+
@@ -512,7 +511,7 @@ begin
          end;
 
       except on E: Exception do begin
-         ShowMessage('Não foi possível atualizar base de dados !'+#13+e.Message);
+         ShowMessage('Nï¿½o foi possï¿½vel atualizar base de dados !'+#13+e.Message);
          GravaLog('Erro ao tentar atualizar bancos de dados #Erro:'+e.Message+' sql:'+sql);
       end;
       end;
@@ -571,11 +570,11 @@ begin
             end;
 
             if(bPen)then
-               ShowMessage('Cliente pendente de configuração:'+qCLI.FieldByName('CNPJ').AsString)
+               ShowMessage('Cliente pendente de configuraï¿½ï¿½o:'+qCLI.FieldByName('CNPJ').AsString)
             else
                GravaLog('Base '+qCLI.FieldByName('CNPJ').AsString+' atualizada com sucesso!');
          except on e:exception do
-            ShowMessage('Não foi possível atualizar base de dados !'+#13+e.Message);
+            ShowMessage('Nï¿½o foi possï¿½vel atualizar base de dados !'+#13+e.Message);
          end;
       end;
    finally
@@ -678,12 +677,12 @@ begin
             end;
 
             if(bPen)then
-               ShowMessage('Base Limpa pendente de atualização')
+               ShowMessage('Base Limpa pendente de atualizaï¿½ï¿½o')
             else
                GravaLog('Base Limpa atualizada com sucesso!');
 
          except on e:exception do
-            ShowMessage('Não foi possível atualizar base de dados !'+#13+e.Message);
+            ShowMessage('Nï¿½o foi possï¿½vel atualizar base de dados !'+#13+e.Message);
          end;
       end;
    finally
@@ -812,7 +811,7 @@ begin
    //             'AND RDB$FIELD_NAME=''TELEFONE'' ',qAUX)<>'' then
    //   Result.Add('ALTER TABLE EMPRESA ALTER COLUMN TELEFONE TYPE VARCHAR (14) CHARACTER SET WIN1252');
 
-   // configurações especiais
+   // configuraï¿½ï¿½es especiais
    if SQLString('SELECT RDB$PROCEDURE_NAME FROM RDB$PROCEDURES WHERE RDB$PROCEDURE_NAME = ''EXTRAI_NUMERO'' ',qAUX) = '' then begin
       cAux := 'CREATE OR ALTER PROCEDURE EXTRAI_NUMERO ( '+
       '    TEXTO VARCHAR(100)) '+
@@ -962,7 +961,7 @@ begin
          oSend.AddPair('to','67981825843');
 
          oText := TJSONObject.Create;
-         oText.AddPair('body','Olá houve +1 cliente cadastrado no sigetran');
+         oText.AddPair('body','Olï¿½ houve +1 cliente cadastrado no sigetran');
          oSend.AddPair('text',oText);
 
          while not(qREG.Eof) do begin

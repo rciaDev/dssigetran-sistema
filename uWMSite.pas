@@ -5183,6 +5183,7 @@ begin
          cPg:=cPg+'</span></div>';
 
 
+         {
          cPg:=cPg+'<div class="border p-4 mt-2 rounded">';
          cPg:=cPg+'<span class="fs-4 fw-light text-light">Para o seu amigo</span> ';
          cPg:=cPg+'</div>';
@@ -5190,6 +5191,7 @@ begin
          cPg:=cPg+'<div class="border p-4 mt-2 rounded">';
          cPg:=cPg+'<span class="fs-4 fw-light text-light">Do seu amigo</span> ';
          cPg:=cPg+'</div>';
+         }
 
       except on E: Exception do
          cPg:= e.message;
@@ -5218,9 +5220,9 @@ begin
            '</head>'+
            '<body>'+
            '<div class="p-2 bg-light d-flex flex-column justify-content-center align-items-center" style="width: 100%; height: 100%;">'+
-           '<div class=" card d-flex flex-column justify-content-center align-items-center mt-4" style="height: 600px; width: 90%; background-color:rgba(21, 92, 162, 0.5);">'+
+           '<div class=" card d-flex flex-column justify-content-center align-items-center mt-4" style="height: 600px; width: 90%; background-color: #DA70D6;">'+
            '<span class="fs-1 fw-bold text-light">FAMILIA RODRIGUES</span>'+
-           '<span class="fs-4 fw-light text-light">Amigo Secreto 2023</span> '+
+           '<span class="fs-4 fw-light text-light">Amigo Secreto 2025</span> '+
              cPg+
            '</div>'+
            '<script>'+
@@ -5500,6 +5502,8 @@ initialization
 finalization
   Web.WebReq.FreeWebModules;
 end.
+
+
 
 
 

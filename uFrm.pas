@@ -86,7 +86,8 @@ var
   sAtualizaCRM: String;
 
   const
-    
+    TOKEN_META = 'EAAI8tVOUlDQBABZB8bQcgiiQcGpb06ZB2YdmGimzXbkxnyUk8qIa7rMUpbEsABZA4MTcNxiWFr9YXgp2BnS7aE1m8aohrVwQJdwlC0gCZBrCz3YizcU7B45ICGW27DndTJm49U5ZAifKbDZC4PArYkCYheTDuZA2dzU0OdpYApC2eO1G2koV9jY';
+    ID_META = '106059639186918';
 
 
 

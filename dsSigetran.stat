@@ -1,0 +1,272 @@
+[Stats]
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+EditorSecs=2360
+DesignerSecs=908
+InspectorSecs=132
+CompileSecs=16646844
+OtherSecs=1035
+=======
+EditorSecs=48547
+DesignerSecs=6467
+InspectorSecs=573
+CompileSecs=14430206
+OtherSecs=13196
+>>>>>>> 16cb779de78da6382a86eeca2d05998b65116c8b
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+EditorSecs=44025
+DesignerSecs=6648
+=======
+EditorSecs=44592
+DesignerSecs=6265
+InspectorSecs=494
+CompileSecs=13416657
+OtherSecs=14338
+=======
+EditorSecs=44798
+DesignerSecs=6160
+InspectorSecs=556
+CompileSecs=13787958
+OtherSecs=12902
+>>>>>>> 7d0c533323d026eb194d6b3f186f503fa73e77a3
+>>>>>>> 2362083486cb574c92ea0c24d9cdd1039eadc0ff
+=======
+<<<<<<< HEAD
+EditorSecs=43159
+DesignerSecs=6573
+>>>>>>> e5942a99776278033620e29ada1fc9ff14f04f1c
+InspectorSecs=494
+CompileSecs=13416657
+OtherSecs=14338
+=======
+EditorSecs=43949
+DesignerSecs=6204
+InspectorSecs=556
+CompileSecs=13670202
+OtherSecs=12886
+>>>>>>> 477362841b31bb255e081d5eafd633058791709b
+>>>>>>> f589b3163409126cb60bfcd3593e3edc83e1dc91
+=======
+EditorSecs=26041
+DesignerSecs=3818
+InspectorSecs=94
+CompileSecs=10532909
+OtherSecs=13726
+>>>>>>> 9cbf9eb9c41f35d3964806ab0a652ac7cf315156
+=======
+EditorSecs=25903
+DesignerSecs=4296
+InspectorSecs=93
+CompileSecs=10504570
+OtherSecs=13690
+>>>>>>> f6bd03552eadea4f586d3c450aeeea5e6d0fe950
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+EditorSecs=20831
+DesignerSecs=4093
+=======
+EditorSecs=32660
+DesignerSecs=5097
+InspectorSecs=589
+CompileSecs=10278955
+OtherSecs=13976
+=======
+EditorSecs=29100
+DesignerSecs=4352
+InspectorSecs=634
+CompileSecs=10360356
+OtherSecs=13662
+>>>>>>> 7fd92c5f46e1f90098fa234a77f4f8e451c99fce
+>>>>>>> 3154927902557b513bc585e1d960bd1ca1d4a357
+=======
+<<<<<<< HEAD
+EditorSecs=17314
+DesignerSecs=4055
+>>>>>>> 8f22ee50b95665f2a95cbb393ae7bf49c9cf8774
+InspectorSecs=465
+CompileSecs=3583809
+OtherSecs=3993
+=======
+EditorSecs=31176
+DesignerSecs=4942
+InspectorSecs=520
+CompileSecs=9919987
+OtherSecs=13717
+>>>>>>> 3d0abece0f2c4ae894cd2a5f9ccdb27740949e9a
+>>>>>>> 7cb3274c9d932a6e7715d4a07cedfc87212b2994
+=======
+<<<<<<< HEAD
+EditorSecs=16809
+DesignerSecs=3958
+InspectorSecs=465
+CompileSecs=3480888
+OtherSecs=3654
+StartTime=18/10/2022 15:57:13
+RealKeys=0
+EffectiveKeys=0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+DebugSecs=2031595
+=======
+DebugSecs=1345513
+>>>>>>> 16cb779de78da6382a86eeca2d05998b65116c8b
+=======
+DebugSecs=1298817
+=======
+DebugSecs=1298930
+>>>>>>> 7d0c533323d026eb194d6b3f186f503fa73e77a3
+=======
+<<<<<<< HEAD
+DebugSecs=1285220
+>>>>>>> e5942a99776278033620e29ada1fc9ff14f04f1c
+=======
+DebugSecs=1297643
+>>>>>>> 477362841b31bb255e081d5eafd633058791709b
+>>>>>>> f589b3163409126cb60bfcd3593e3edc83e1dc91
+=======
+DebugSecs=1111159
+>>>>>>> 9cbf9eb9c41f35d3964806ab0a652ac7cf315156
+=======
+DebugSecs=1104933
+>>>>>>> f6bd03552eadea4f586d3c450aeeea5e6d0fe950
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+DebugSecs=813698
+=======
+DebugSecs=1043657
+=======
+DebugSecs=1063134
+>>>>>>> 7fd92c5f46e1f90098fa234a77f4f8e451c99fce
+>>>>>>> 3154927902557b513bc585e1d960bd1ca1d4a357
+=======
+<<<<<<< HEAD
+DebugSecs=786107
+>>>>>>> 8f22ee50b95665f2a95cbb393ae7bf49c9cf8774
+=======
+DebugSecs=1031316
+>>>>>>> 3d0abece0f2c4ae894cd2a5f9ccdb27740949e9a
+>>>>>>> 7cb3274c9d932a6e7715d4a07cedfc87212b2994
+=======
+<<<<<<< HEAD
+EditorSecs=18551
+DesignerSecs=5911
+InspectorSecs=219
+CompileSecs=6741130
+OtherSecs=10384
+=======
+EditorSecs=19605
+DesignerSecs=6515
+InspectorSecs=199
+CompileSecs=7186936
+OtherSecs=10875
+>>>>>>> f8e0927a7d012708e6f0cc766f877135687b264d
+>>>>>>> 81cac8400a8e0751443710fae6aff41626abb3e7
+=======
+EditorSecs=18846
+DesignerSecs=5896
+InspectorSecs=264
+CompileSecs=6684892
+OtherSecs=11138
+>>>>>>> 148caa057b27482ea8b9cd316a5a5a44397d3037
+StartTime=18/10/2022 15:57:13
+RealKeys=0
+EffectiveKeys=0
+<<<<<<< HEAD
+DebugSecs=932345
+=======
+<<<<<<< HEAD
+DebugSecs=920163
+>>>>>>> fddff026bae47f71a56a3d37eacd13a16e77a837
+=======
+DebugSecs=931586
+>>>>>>> f8e0927a7d012708e6f0cc766f877135687b264d
+>>>>>>> 81cac8400a8e0751443710fae6aff41626abb3e7
+=======
+<<<<<<< HEAD
+EditorSecs=13465
+DesignerSecs=3697
+InspectorSecs=455
+CompileSecs=3367838
+OtherSecs=3532
+StartTime=18/10/2022 15:57:13
+RealKeys=0
+EffectiveKeys=0
+DebugSecs=722238
+=======
+EditorSecs=6652
+DesignerSecs=5431
+InspectorSecs=116
+CompileSecs=5264438
+OtherSecs=9051
+StartTime=18/10/2022 15:57:13
+RealKeys=0
+EffectiveKeys=0
+DebugSecs=848255
+>>>>>>> 9885d9dd69107fd955dd9607d808efe90bf7d4e7
+>>>>>>> e8bf6398dc8466d7d1bf9838d279c82a45d02dcd
+=======
+<<<<<<< HEAD
+EditorSecs=8771
+DesignerSecs=3574
+InspectorSecs=379
+CompileSecs=3149519
+OtherSecs=3134
+StartTime=18/10/2022 15:57:13
+RealKeys=0
+EffectiveKeys=0
+DebugSecs=713685
+=======
+EditorSecs=3298
+DesignerSecs=5656
+InspectorSecs=1
+CompileSecs=3990051
+OtherSecs=5983
+StartTime=18/10/2022 15:57:13
+RealKeys=0
+EffectiveKeys=0
+DebugSecs=683554
+>>>>>>> 78f08ed1cb6a17ec31771c1181cc98ece328ca87
+>>>>>>> 23b68a7b7e6770c5bd017d0495479e76bae36a3d
+=======
+<<<<<<< HEAD
+EditorSecs=8706
+DesignerSecs=4235
+InspectorSecs=111
+CompileSecs=3321474
+OtherSecs=5310
+StartTime=18/10/2022 15:57:13
+RealKeys=0
+EffectiveKeys=0
+DebugSecs=647973
+=======
+EditorSecs=6923
+DesignerSecs=3449
+InspectorSecs=137
+CompileSecs=2958908
+OtherSecs=4300
+StartTime=18/10/2022 15:57:13
+RealKeys=0
+EffectiveKeys=0
+DebugSecs=625958
+>>>>>>> bbaf9bf794fe2b58e5ac560b3222b262074a7b63
+>>>>>>> 9b1a4bef4227ec9e0c7a2fc9834b78671f40fffc

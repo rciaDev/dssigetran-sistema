@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/10/12 10:33:15.000.701,D:\Projetos\dsSigetran\untQRRelatorio.pas=</Transaction>
+    <Transaction>2023/10/19 15:44:27.000.221,=D:\Projetos\dsSigetran\Unit1.pas</Transaction>
+    <Transaction>2023/10/19 15:44:34.000.753,D:\Projetos\dsSigetran\uConfiguracoes.pas=D:\Projetos\dsSigetran\Unit1.pas</Transaction>
+    <Transaction>2023/10/19 17:09:15.000.415,=D:\Projetos\dsSigetran\Unit1.pas</Transaction>
+    <Transaction>2023/10/19 17:09:33.000.510,D:\Projetos\dsSigetran\Unit1.pas=D:\Projetos\dsSigetran\uConfiguracoesJSON.pas</Transaction>
+    <Transaction>2023/10/31 11:01:49.000.822,=D:\Projetos\dsSigetran\index.pas</Transaction>
+    <Transaction>2024/04/11 17:12:47.000.327,=C:\Projetos\dsSigetran\Unit1.pas</Transaction>
+    <Transaction>2024/04/11 17:12:51.000.934,C:\Projetos\dsSigetran\Unit1.pas=C:\Projetos\dsSigetran\uVeiculosJSON.pas</Transaction>
+    <Transaction>2024/04/15 16:15:29.000.754,=C:\Projetos\dsSigetran\Unit1.pas</Transaction>
+    <Transaction>2024/04/15 16:16:07.000.000,=C:\Projetos\dsSigetran\uVeiculos.pas</Transaction>
+    <Transaction>2024/08/20 10:40:03.000.487,=C:\Projetos\dsSigetran - Antigo\uRelatoriosCadastrais.pas</Transaction>
+    <Transaction>2024/09/02 14:29:14.000.558,=C:\Projetos\dsSigetran - Antigo\uRelatoriosOperacionais.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="css"/>
+    <File Path="css\main.css"/>
+    <File Path="css\ServerFunctionInvoker.css"/>
+    <File Path="images"/>
+    <File Path="images\collapse.png"/>
+    <File Path="images\expand.png"/>
+    <File Path="js"/>
+    <File Path="js\base64-min.js"/>
+    <File Path="js\base64.js"/>
+    <File Path="js\CallbackFramework-min.js"/>
+    <File Path="js\CallbackFramework.js"/>
+    <File Path="js\connection.js"/>
+    <File Path="js\json2-min.js"/>
+    <File Path="js\json2.js"/>
+    <File Path="js\ServerFunctionExecutor-min.js"/>
+    <File Path="js\ServerFunctionExecutor.js"/>
+    <File Path="js\ServerFunctionInvoker.js"/>
+    <File Path="js\ServerFunctions.js"/>
+    <File Path="templates"/>
+    <File Path="templates\ReverseString.html"/>
+    <File Path="templates\ServerFunctionInvoker.html"/>
+    <File Path="uBuscas.pas"/>
+    <File Path="uClientes.pas"/>
+    <File Path="uClientesJSON.pas"/>
+    <File Path="uConfiguracoes.pas"/>
+    <File Path="uConfiguracoesJSON.pas"/>
+    <File Path="uCTe.pas"/>
+    <File Path="uEmpresas.pas"/>
+    <File Path="uEmpresasJSON.pas"/>
+    <File Path="uFreteJSON.pas"/>
+    <File Path="uFretes.pas"/>
+    <File Path="uFrm.pas"/>
+    <File Path="uFrm.dfm"/>
+    <File Path="uMdfe.pas"/>
+    <File Path="uProdutos.pas"/>
+    <File Path="uProprietarios.pas"/>
+    <File Path="uProprietariosJSON.pas"/>
+    <File Path="uReceitaWs.pas"/>
+    <File Path="uServerContainer.pas"/>
+    <File Path="uServerContainer.dfm"/>
+    <File Path="uServerMethods.pas"/>
+    <File Path="uUsuarios.pas"/>
+    <File Path="uUsuariosJSON.pas"/>
+    <File Path="uWMSite.pas"/>
+    <File Path="uWMSite.dfm"/>
+    <File Path="uVeiculosJSON.pas"/>
+    <File Path="uVeiculos.pas"/>
+    <File Path="uRelatoriosCadastrais.pas"/>
+    <File Path="uRelatoriosOperacionais.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

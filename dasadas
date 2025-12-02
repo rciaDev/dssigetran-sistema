@@ -1,0 +1,627 @@
+[33mcommit 4ad4b4138835c7cc6ffa54ec34fbcb42c906694d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Tue Dec 19 07:48:43 2023 -0400
+
+    Ataulizando
+
+[33mcommit 32f69578a9638450b91adc237b459d5e21a6f945[m
+Merge: 548f6eb 16cb779
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Wed Dec 6 15:37:02 2023 -0400
+
+    Atualizando
+
+[33mcommit 548f6eb8c01b6bfb3dea84032a3a9c6dfac84235[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Wed Dec 6 14:40:57 2023 -0400
+
+    At
+
+[33mcommit 16cb779de78da6382a86eeca2d05998b65116c8b[m
+Author: rciaDev <rciasistemas@rcia.inf.br>
+Date:   Tue Dec 5 16:54:04 2023 -0400
+
+    Rotina amigo
+
+[33mcommit e82dbaab61e6abf938b3addc1b603d67ca15230d[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Wed Nov 8 17:35:15 2023 -0400
+
+    Atualizado
+
+[33mcommit 53a980fbedc2d704e2f63f3518aedd02c02f76f9[m
+Merge: 63f3b8c 2362083
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Tue Nov 7 17:41:52 2023 -0400
+
+    Adicionando Importar XML
+
+[33mcommit 63f3b8c6067345fb7c432b7871aca6cf5697e330[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Tue Nov 7 09:15:07 2023 -0400
+
+    A
+
+[33mcommit 2362083486cb574c92ea0c24d9cdd1039eadc0ff[m
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Mon Nov 6 22:47:25 2023 -0400
+
+    Atualizando
+
+[33mcommit 7df266e63ca9ff7795206413ad18dce0c30b3a52[m
+Merge: a5f6646 7d0c533
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Mon Nov 6 21:00:30 2023 -0400
+
+    Atualizando
+
+[33mcommit a5f6646e7ef00da24404a88ceaca4f35f0a4d350[m
+Merge: f2e09b6 e5942a9
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Mon Nov 6 19:29:59 2023 -0400
+
+    A
+
+[33mcommit 7d0c533323d026eb194d6b3f186f503fa73e77a3[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Mon Nov 6 17:23:56 2023 -0400
+
+    Atualizando
+
+[33mcommit f2e09b6886b1cebb14b1d4fde3b9daf660732af7[m
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Sat Nov 4 11:49:57 2023 -0400
+
+    At
+
+[33mcommit e5942a99776278033620e29ada1fc9ff14f04f1c[m
+Merge: 2499db3 f589b31
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Sat Nov 4 11:21:30 2023 -0400
+
+    Atua
+
+[33mcommit 2499db3cfd25cbffe2ca250e2561005478b3af9b[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Sat Nov 4 08:25:22 2023 -0400
+
+    A
+
+[33mcommit f589b3163409126cb60bfcd3593e3edc83e1dc91[m
+Merge: 644389a 4773628
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Fri Nov 3 22:00:35 2023 -0400
+
+    Atualizando
+
+[33mcommit 644389a5099996722f6dc1ba1e8678d5ef317eeb[m
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Fri Nov 3 18:57:23 2023 -0400
+
+    Atualizacao
+
+[33mcommit 477362841b31bb255e081d5eafd633058791709b[m
+Merge: 030d904 c848bb1
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Fri Nov 3 17:43:44 2023 -0400
+
+    Atualizando
+
+[33mcommit 030d904e00096d4751b1e7c11b4e022556c109e3[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Fri Nov 3 17:43:19 2023 -0400
+
+    Atualizando
+
+[33mcommit c848bb15ea62b32a3bcc4d429f5938c63c0a341e[m
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Thu Nov 2 17:58:16 2023 -0400
+
+    At
+
+[33mcommit 2387b3a7c95cbefd05bf0e4323b8355fc6139cef[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Wed Nov 1 17:12:10 2023 -0400
+
+    A
+
+[33mcommit 429e613700551c24f48a32d9984f83f435a62492[m
+Merge: 35dd0b0 22a0959
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Sun Oct 29 20:30:42 2023 -0400
+
+    A
+
+[33mcommit 35dd0b0ed79295fc2db41b005c4b1664113438ad[m
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Sat Oct 28 20:32:40 2023 -0400
+
+    A
+
+[33mcommit 22a0959f689c8b000616c80b1ae73773f11c9b80[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Sat Oct 28 11:24:11 2023 -0400
+
+    A
+
+[33mcommit b4b24f0400e9d7400a56b6181286820f0a30a5f9[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Fri Oct 27 17:38:28 2023 -0400
+
+    Adicionando impressão de evento
+
+[33mcommit 1a125e47a8389a286b3770e4f98f5ef3886177a8[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Mon Oct 23 17:14:29 2023 -0400
+
+    Correções
+
+[33mcommit 37d329ee9b1ea6793c883e07c78bc17bff18a1a1[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Sat Oct 21 13:05:03 2023 -0400
+
+    Correções OS 8726
+
+[33mcommit d3477d93af10bbbff429b2b292013f36de814b42[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Thu Oct 19 17:40:01 2023 -0400
+
+    Adicionando
+
+[33mcommit 09376c7f5dcf66a61cbcf74e618853294dee1356[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Tue Oct 17 17:28:49 2023 -0400
+
+    Adicionando Esqueceu Senha
+
+[33mcommit e87255aeccd305a37f1418cee92c7e7808b86697[m
+Merge: 1b9eb90 9cbf9eb
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Tue Oct 17 17:27:18 2023 -0400
+
+    Adicionando Esqueceu Senha
+
+[33mcommit 1b9eb900bc285a38807ad0dbf145c5608f7cb669[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Tue Oct 17 09:05:34 2023 -0400
+
+    A
+
+[33mcommit 9cbf9eb9c41f35d3964806ab0a652ac7cf315156[m
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Mon Oct 16 21:41:19 2023 -0400
+
+    Implementando envio de token para recuperar senha e email no momento de cadastro
+
+[33mcommit 0c0a6a9a7b9ec3f9608667075f071aca013ed8c3[m
+Merge: b3dcec7 523dba7
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Mon Oct 16 17:37:09 2023 -0400
+
+    Tira acentos + email cadastro e verificação
+
+[33mcommit b3dcec77f6412cd54ef8186f6bf1a375804cfda2[m
+Merge: b38bc31 f6bd035
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Mon Oct 16 07:45:36 2023 -0400
+
+    A
+
+[33mcommit 523dba7a390b6ba3ce5cb6c32d8cdd5c22157201[m
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Sun Oct 15 21:48:14 2023 -0400
+
+    Correção de Threads + Definição de formaemissao = '0' quando se inicia o cadastro
+
+[33mcommit b38bc31556052ea81cc51edf1b9b0b3ca4263291[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Fri Oct 13 09:15:21 2023 -0400
+
+    A
+
+[33mcommit f6bd03552eadea4f586d3c450aeeea5e6d0fe950[m
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Thu Oct 12 20:01:58 2023 -0400
+
+    Correções
+
+[33mcommit 0058faade901692c8141188e5a51cef8dc8e2ebc[m
+Merge: 1fdf962 048c063
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Thu Oct 12 10:34:51 2023 -0400
+
+    A
+
+[33mcommit 1fdf962ff680d1b483c1c201bdaeb3fd6f34c5d0[m
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Tue Oct 10 21:00:58 2023 -0400
+
+    A
+
+[33mcommit 048c063a511c07fc302aa8787977f426ec655d09[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Tue Oct 10 17:13:22 2023 -0400
+
+    A
+
+[33mcommit 39a7d11c28cc0dadfd36813bbbb78abc3dd6e35a[m
+Merge: 00cbb33 3154927
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Mon Oct 9 17:38:57 2023 -0400
+
+    AT
+
+[33mcommit 00cbb334d34553b2d593c791e992b31bdd4772f8[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Mon Oct 9 07:48:56 2023 -0400
+
+    A
+
+[33mcommit 3154927902557b513bc585e1d960bd1ca1d4a357[m
+Merge: ec467e6 7fd92c5
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Sun Oct 8 18:50:22 2023 -0400
+
+    Implementando cadastro e atualização de perfil no CRM
+
+[33mcommit ec467e665f26941a58018db80465e429280671f8[m
+Merge: ffa3d21 8f22ee5
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Sat Oct 7 18:05:01 2023 -0400
+
+    a
+
+[33mcommit 7fd92c5f46e1f90098fa234a77f4f8e451c99fce[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Sat Oct 7 11:32:46 2023 -0400
+
+    Adicionando
+
+[33mcommit 80b013f408ac645d4ac1ae69aef89bd1f1eb6e10[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Fri Oct 6 17:35:20 2023 -0400
+
+    Ad
+
+[33mcommit ffa3d217b3a01c5e8e369430743b8a81e6c428ef[m
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Thu Oct 5 19:24:39 2023 -0400
+
+    Ad
+
+[33mcommit 8f22ee50b95665f2a95cbb393ae7bf49c9cf8774[m
+Merge: 6e1a44e 7cb3274
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Thu Oct 5 17:23:21 2023 -0400
+
+    Adicionando registro de clientes,proprietarios, pelo backend
+
+[33mcommit 6e1a44e2b1b8ae20f6b082a7a589b2fb714de90e[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Thu Oct 5 08:20:27 2023 -0400
+
+    a
+
+[33mcommit 7cb3274c9d932a6e7715d4a07cedfc87212b2994[m
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Wed Oct 4 23:27:40 2023 -0400
+
+    Adicionando uEmpresaJSON
+
+[33mcommit 20ab273ea0226ae87bac21c7cacedb2656e33fa1[m
+Merge: a523701 3d0abec
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Wed Oct 4 19:29:23 2023 -0400
+
+    A
+
+[33mcommit a5237016313523471b547ea92fa41771f2e7e1f5[m
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Wed Oct 4 19:28:37 2023 -0400
+
+    A
+
+[33mcommit 3d0abece0f2c4ae894cd2a5f9ccdb27740949e9a[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Wed Oct 4 17:34:15 2023 -0400
+
+    Implementação do cadastro de usuário direto pelo backend
+
+[33mcommit b9e827b24adbe8e3685dc697b94eae0da1026794[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Fri Sep 8 17:38:25 2023 -0400
+
+    Adicionando uMdfe
+
+[33mcommit 6f67023828409f39787e69b0c81da40855a6b28d[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Wed Sep 6 17:35:42 2023 -0400
+
+    Add mdfe
+
+[33mcommit a34418496e770b6d0ce12e4a8f7df37dba8118da[m
+Merge: 5408dc2 81cac84
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Tue Sep 5 17:38:21 2023 -0400
+
+    AT
+
+[33mcommit 5408dc2d7542dc9744fa956ecb1a321bea8a14f2[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Tue Sep 5 07:56:22 2023 -0400
+
+    Now
+
+[33mcommit 81cac8400a8e0751443710fae6aff41626abb3e7[m
+Merge: 3013453 f8e0927
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Mon Sep 4 21:00:04 2023 -0400
+
+    Finalizando Email
+
+[33mcommit 3013453c18d077e514a6c4c697918db6c151e196[m
+Merge: 2e2c4b2 fddff02
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Mon Sep 4 19:59:37 2023 -0400
+
+    AT
+
+[33mcommit f8e0927a7d012708e6f0cc766f877135687b264d[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Mon Sep 4 17:32:13 2023 -0400
+
+    Add Cancelamento | Email
+
+[33mcommit 2e2c4b21af60a96cf3cd37565a20f0e1d5c9bb47[m
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Sun Sep 3 11:33:07 2023 -0400
+
+    A
+
+[33mcommit fddff026bae47f71a56a3d37eacd13a16e77a837[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Sat Sep 2 11:44:32 2023 -0400
+
+    Add cancelamento CTE
+
+[33mcommit b6cb5683938579cba2aa65d6e0d9aa0d4773b164[m
+Merge: 75581af 148caa0
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Fri Sep 1 17:29:31 2023 -0400
+
+    AT
+
+[33mcommit 75581afec27f12b5c12e82c371007c299062fdb9[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Fri Sep 1 17:13:48 2023 -0400
+
+    aT
+
+[33mcommit 148caa057b27482ea8b9cd316a5a5a44397d3037[m
+Author: caio-boos <caio.nerd.0@gmail.com>
+Date:   Thu Aug 31 09:44:11 2023 -0400
+
+    subindo
+
+[33mcommit e8c0c3251dd226ea0486c8de14c6d0b76b918bb5[m
+Author: caio-boos <caio.nerd.0@gmail.com>
+Date:   Tue Aug 29 10:13:28 2023 -0400
+
+    subindo
+
+[33mcommit 56513a5dd1ec6c65abd7b906e33ab918913bc086[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Mon Aug 28 17:36:59 2023 -0400
+
+    aT
+
+[33mcommit 89316710b2e1b3220433a5760026a01ad117b29d[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Tue Aug 22 17:36:01 2023 -0400
+
+    AT
+
+[33mcommit fb6ce9d6c4ee052e42bf62e2752896d356906aff[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Sat Aug 19 12:06:34 2023 -0400
+
+    At
+
+[33mcommit 74ae7fccb8448ed3f775b641c9d3dd93b70c164a[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Fri Aug 18 16:48:34 2023 -0400
+
+    AT
+
+[33mcommit 8895a32b921d81d9e22dbe1af5a23f95ad0183e0[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Wed Aug 16 17:29:23 2023 -0400
+
+    At
+
+[33mcommit c4af0f7d07700e7c7a12e20aeff4b055aa485435[m
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Tue Aug 15 22:08:15 2023 -0400
+
+    AT
+
+[33mcommit 4f0c1eecdc6958ffced701c8349f5479c91297f1[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Tue Aug 15 17:36:28 2023 -0400
+
+    At
+
+[33mcommit dc16a4d13a0422fa194eeb4f74fe06f916d3ab4c[m
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Mon Aug 14 23:08:19 2023 -0400
+
+    At
+
+[33mcommit dd3f2c56043c27a0b7156865689c380702fb10e2[m
+Merge: b3c37a7 e8bf639
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Mon Aug 14 17:34:32 2023 -0400
+
+    FINALMENTE POPULEI
+
+[33mcommit b3c37a77f3cf72934178b4ad5c8323d5160d068b[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Mon Aug 14 07:58:03 2023 -0400
+
+    a
+
+[33mcommit e8bf6398dc8466d7d1bf9838d279c82a45d02dcd[m
+Merge: 123b3cf 9885d9d
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Sun Aug 13 21:25:11 2023 -0400
+
+    AT
+
+[33mcommit 123b3cfcd1a4085944d5cf0065a3ccf54cff3789[m
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Sat Aug 12 19:25:25 2023 -0400
+
+    A
+
+[33mcommit 9885d9dd69107fd955dd9607d808efe90bf7d4e7[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Sat Aug 12 12:10:08 2023 -0400
+
+    At
+
+[33mcommit d7ccabc3bada9ecd3bbccc703dc50044ecb0407b[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Fri Aug 11 17:34:19 2023 -0400
+
+    Correções de bug e ajuste de calculos
+
+[33mcommit aec3cc03db6666b279b156eadc2c10b6951e50b5[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Thu Aug 10 17:36:34 2023 -0400
+
+    At
+
+[33mcommit 5c9376755a81d52657f34208ffcb3de1ca5d5ad1[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Tue Aug 8 17:33:07 2023 -0400
+
+    At
+
+[33mcommit a0387b4df4213575b675d83b421868fd772a9082[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Sat Aug 5 11:32:25 2023 -0400
+
+    Ajust
+
+[33mcommit 5e0cf7032c1bb761ecdafaf09208828cf242a675[m
+Merge: bedcb61 23b68a7
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Thu Aug 3 17:38:21 2023 -0400
+
+    Add Salvar Nota
+
+[33mcommit bedcb61a54ab1d21203491aac3c538429c71516d[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Thu Aug 3 07:59:09 2023 -0400
+
+    A
+
+[33mcommit 23b68a7b7e6770c5bd017d0495479e76bae36a3d[m
+Merge: d0a2f4e 78f08ed
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Wed Aug 2 22:29:57 2023 -0400
+
+    UPDATE OR INSERT INTO
+
+[33mcommit d0a2f4e402579e5753d53313580e827f51c869ce[m
+Merge: 469313a abfb5d2
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Wed Aug 2 19:48:33 2023 -0400
+
+    A
+
+[33mcommit 78f08ed1cb6a17ec31771c1181cc98ece328ca87[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Wed Aug 2 17:34:41 2023 -0400
+
+    Add INSERT FRETE
+
+[33mcommit 469313ab6dc5d9efee143d7dea6bfc545b735548[m
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Tue Aug 1 19:38:57 2023 -0400
+
+    A
+
+[33mcommit abfb5d24c4d12343282dd177f4d7175660b853bc[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Tue Aug 1 17:35:21 2023 -0400
+
+    Notas
+
+[33mcommit d5a7417b4ceaf8409d641f703f33686ed9e5176e[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Mon Jul 31 13:32:16 2023 -0400
+
+    Add uFretes
+
+[33mcommit 6e9b3c9026eeace1b6f16dde2684af8bf55f7dea[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Mon Jul 24 17:18:30 2023 -0400
+
+    AT
+
+[33mcommit 866ebc93373b9def594d5c3b780c27f7b0a83622[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Mon Jul 24 09:57:11 2023 -0400
+
+    Remoção do Certificado Digital
+
+[33mcommit c95323d42073ff290ee5a76ad42323e13ba439d2[m
+Merge: f9a662e 9b1a4be
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Sun Jul 23 21:18:32 2023 -0400
+
+    AT
+
+[33mcommit f9a662ef1ef0243e2027183af006a1c039c5923a[m
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Sun Jul 23 10:15:27 2023 -0400
+
+    At
+
+[33mcommit 9b1a4bef4227ec9e0c7a2fc9834b78671f40fffc[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Sat Jul 22 11:51:40 2023 -0400
+
+    at
+
+[33mcommit 9a80e7c301970bd398643180ee6b43bf02e3ceb0[m
+Merge: dd7026a bbaf9bf
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Thu Jul 20 14:59:05 2023 -0400
+
+    Extraindo erros função upload certificado
+
+[33mcommit dd7026ac8f973498d16782b906b506aeb7dae08f[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Thu Jul 20 14:29:45 2023 -0400
+
+    Adding update databases
+
+[33mcommit bbaf9bf794fe2b58e5ac560b3222b262074a7b63[m
+Author: ST3LFI3 <gabrielbangarclprates@gmail.com>
+Date:   Wed Jul 19 22:26:46 2023 -0400
+
+    Salvando certificado
+
+[33mcommit 460bcfe46316a9639cd21a92a7d0f20122d15554[m
+Author: Gabriel Neves Neves <gabrielbangarclprates@gmail.com>
+Date:   Thu Jul 13 14:56:07 2023 -0400
+
+    Remove
+
+[33mcommit 4bfa1c18ff30b6d19fb59c6f7a3e7a589c9c4fc7[m
+Author: R&CIA SISTEMAS <113533613+rciaDev@users.noreply.github.com>
+Date:   Thu Jul 13 13:58:56 2023 -0400
+
+    adding

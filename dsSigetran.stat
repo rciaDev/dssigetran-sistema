@@ -11,11 +11,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-EditorSecs=2360
-DesignerSecs=908
-InspectorSecs=132
-CompileSecs=16646844
-OtherSecs=1035
+EditorSecs=2488
+DesignerSecs=879
+InspectorSecs=151
+CompileSecs=16672571
+OtherSecs=1079
 =======
 EditorSecs=48547
 DesignerSecs=6467
@@ -125,7 +125,7 @@ EffectiveKeys=0
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-DebugSecs=2031595
+DebugSecs=2033650
 =======
 DebugSecs=1345513
 >>>>>>> 16cb779de78da6382a86eeca2d05998b65116c8b

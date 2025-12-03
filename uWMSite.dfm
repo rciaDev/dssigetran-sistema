@@ -353,11 +353,6 @@ object WMSite: TWMSite
       OnAction = WMSiteactConfiguracoesSeguradorasBuscaAction
     end
     item
-      Name = 'actAmigo'
-      PathInfo = '/amigo'
-      OnAction = WMSiteactAmigoAction
-    end
-    item
       Name = 'actTeste'
       PathInfo = '/testes/xmlimpressao'
       OnAction = WMSiteactTesteAction
